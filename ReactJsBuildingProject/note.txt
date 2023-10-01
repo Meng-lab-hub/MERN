@@ -1,0 +1,7 @@
+npx create-react-app NAMEOFPROJECT: to create a skeleton react application
+
+npm --save : to handle with Link
+
+npm --save react-transition-group : to handle animation of SideDrawer and more
+
+
